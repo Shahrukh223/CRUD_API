@@ -1,0 +1,14 @@
+C:\Users\shahrukh1\Desktop\Projects\CRUDApi\bin\Debug\netcoreapp2.1\CRUDApi.deps.json
+C:\Users\shahrukh1\Desktop\Projects\CRUDApi\bin\Debug\netcoreapp2.1\CRUDApi.runtimeconfig.json
+C:\Users\shahrukh1\Desktop\Projects\CRUDApi\bin\Debug\netcoreapp2.1\CRUDApi.runtimeconfig.dev.json
+C:\Users\shahrukh1\Desktop\Projects\CRUDApi\bin\Debug\netcoreapp2.1\CRUDApi.dll
+C:\Users\shahrukh1\Desktop\Projects\CRUDApi\bin\Debug\netcoreapp2.1\CRUDApi.pdb
+C:\Users\shahrukh1\Desktop\Projects\CRUDApi\obj\Debug\netcoreapp2.1\CRUDApi.csprojAssemblyReference.cache
+C:\Users\shahrukh1\Desktop\Projects\CRUDApi\obj\Debug\netcoreapp2.1\CRUDApi.csproj.CoreCompileInputs.cache
+C:\Users\shahrukh1\Desktop\Projects\CRUDApi\obj\Debug\netcoreapp2.1\CRUDApi.RazorAssemblyInfo.cache
+C:\Users\shahrukh1\Desktop\Projects\CRUDApi\obj\Debug\netcoreapp2.1\CRUDApi.RazorAssemblyInfo.cs
+C:\Users\shahrukh1\Desktop\Projects\CRUDApi\obj\Debug\netcoreapp2.1\CRUDApi.AssemblyInfoInputs.cache
+C:\Users\shahrukh1\Desktop\Projects\CRUDApi\obj\Debug\netcoreapp2.1\CRUDApi.AssemblyInfo.cs
+C:\Users\shahrukh1\Desktop\Projects\CRUDApi\obj\Debug\netcoreapp2.1\CRUDApi.RazorTargetAssemblyInfo.cache
+C:\Users\shahrukh1\Desktop\Projects\CRUDApi\obj\Debug\netcoreapp2.1\CRUDApi.dll
+C:\Users\shahrukh1\Desktop\Projects\CRUDApi\obj\Debug\netcoreapp2.1\CRUDApi.pdb
